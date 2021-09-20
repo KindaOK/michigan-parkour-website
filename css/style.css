@@ -599,3 +599,12 @@ div .tap2shop_frame {
     transform: none !important;
   }
 }
+
+/*hacky fix added so the who we are h2 looks right*/
+/*should probably redesign the site to use grid*/
+/*maybe even write templates and then autogenerate pages manually*/
+/*anyways this looks bad on mobile, but not bad enough to actually fix*/
+.who-we-are-fix {
+    margin-top: 25px;
+    padding: 35px 0 5px 0;
+}
