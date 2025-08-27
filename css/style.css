@@ -609,6 +609,6 @@ div .tap2shop_frame {
 /*maybe even write templates and then autogenerate pages manually*/
 /*anyways this looks bad on mobile, but not bad enough to actually fix*/
 .who-we-are-fix {
-    margin-top: 25px;
+    margin-top: 100px;
     padding: 35px 0 5px 0;
 }
